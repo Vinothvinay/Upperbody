@@ -1,0 +1,37 @@
+.ufo{
+    background-color: #f0f2f5;
+    padding:15px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Sevillana', cursive;
+    border-left:2px solid black;
+    
+}
+.p1{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+
+h1{
+    color:black;
+    border-bottom:2px solid black;
+    padding:15px;
+    font-family: 'Roboto', sans-serif;
+    font-size:20px;
+    
+}
+p{
+    font-size:25px;
+}
+.img{
+    align-items: center;
+}
+
+#my{
+    display:flex;
+    font-size:20px;
+    padding:15px;
+    font-family: 'Roboto', sans-serif;
+}
